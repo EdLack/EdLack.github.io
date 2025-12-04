@@ -95,8 +95,7 @@
 
   Previous Iterations
   <details>
-    <summary>Click to see new updated Assessment 2 architecture diagrams</summary>
-    <img/>
+    <summary>Click to see updated Assessment 1 architecture diagrams</summary>
   </details>
   <details>
     <summary>Click to see Assessment 1 architecture diagrams</summary>
