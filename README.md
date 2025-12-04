@@ -29,9 +29,10 @@
 
 ## Documentation
 
-<p style="border: 1px solid #ddd; padding: 15px; ">
+
 ### Change Report
 #### Deliverables:
+<p style="border: 1px solid #ddd; padding: 15px; ">
 <a href="">Change2.pdf</a>
 <br/>
 </p>
