@@ -27,6 +27,10 @@
 
 ### Requirements
 #### Deliverable:
+<p>New Assessment 1 Requirements PDF</p>
+<a href="https://docs.google.com/document/d/1CCklC_My2x9zJ9jQACvzoWo5zuoZUEhd/edit?usp=sharing&ouid=104972335523553798061&rtpof=true&sd=true">Req1.pdf</a>
+
+<p>Old Assessment 1 Requirements PDF</p>
 <a href="https://drive.google.com/file/d/1J1F_THDsjMRu6NLjn-p8qB1K-CXb-HTg/view?usp=drive_link">Req1.pdf</a>
 
 #### Other Files:
