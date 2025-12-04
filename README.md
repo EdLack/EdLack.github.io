@@ -113,10 +113,13 @@
   <p>Updated Assessment 1 Method Selection & planning PDF</p>
   <a href="https://drive.google.com/file/d/170GA7l7ohJZw9Rnvt7Rh7utbooll0QvL/view?usp=drive_link">Team 2 Plan1.pdf</a>
   <br/>
+  <br/>
   <p>Old Assessment 1 Method Selection & planning PDF</p>
   <a href="https://drive.google.com/file/d/1auxYCpcE32DbexzwlmGxIhwrD-RJoYl7/view?usp=drive_link">Old Plan1.pdf</a>
-  
+  <br/>
+  <br/>
   Initial Plan:
+  <br/>
   <a href="https://docs.google.com/document/d/1CiLiLa8Z827Mq-DgH0Q8jv8Wn1GDovbXgPi0u2z3JoU/edit?tab=t.0#heading=h.f63lrhvh1wkv">To-Do List</a>
   <p>
   <img align="center" width="703" height="336" alt="image" src="https://github.com/user-attachments/assets/7ae28110-0919-4a64-807a-7593293826ba" />
