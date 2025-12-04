@@ -2,7 +2,7 @@
 ## Contents
 <p>
 
-<hr> Assessment 1/2 Deliverables (Old & New) <br/>
+Assessment 1/2 Deliverables (Old & New) <br/>
 
 <details>
   <summary>Click to see Assessment 1 updated and old deliverables</summary>
