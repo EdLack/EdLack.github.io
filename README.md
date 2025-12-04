@@ -2,7 +2,7 @@
 ## Contents
 <p>
 
-<hr> Assessment 1 Deliverables (Prev/New) <br/>
+<hr> Assessment 1 Deliverables (Old & New) <br/>
   
 - <a href="https://EdLack.github.io/#requirements">Requirements</a> <br />
   
@@ -100,7 +100,7 @@
 <p>New Assessment 2 .jar executables</p>
 <a href="https://drive.google.com/file/d/1rphI45mRU37JYSxk9EjVUXw38Gb3uglG/view?usp=drive_link">Linux (ubuntu) .jar executable</a><br />
 <a href="https://drive.google.com/file/d/10hYqFsrlu4c7AIaWsIvWPN0BEY3qLLcQ/view?usp=drive_link">Apple (macos) .jar executable</a><br />
-<a href="https://drive.google.com/file/d/1QYK15_ZL8fxLP9aWoGQ2g_tEsjEgt_W7/view?usp=drive_link">Windows .jar executable</a><br />
+<a href="https://drive.google.com/file/d/1QYK15_ZL8fxLP9aWoGQ2g_tEsjEgt_W7/view?usp=drive_link">Windows (windowsos) .jar executable</a><br />
 
 <p>Old Assessment 1 .jar executable</p>
 <a href="https://drive.google.com/file/d/1QMBXNiztB0TcUS6n2Vf8zyf3TzBQhuqu/view?usp=drive_link">eng1-maze-game.jar</a>
