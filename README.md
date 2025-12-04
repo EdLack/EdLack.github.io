@@ -29,10 +29,12 @@
 
 ## Documentation
 
+<p style="border: 1px solid #ddd; padding: 15px; ">
 ### Change Report
 #### Deliverables:
 <a href="">Change2.pdf</a>
 <br/>
+</p>
 
 ### Implementation2
 #### Deliverables:
