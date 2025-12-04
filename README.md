@@ -67,7 +67,7 @@
 
 ### Requirements
 #### Deliverable:
-<p style="border: 1px solid #ddd; padding: 15px; ">
+<div style="border: 1px solid #ddd; padding: 15px; ">
   <p>Updated Assessment 1 Requirements PDF</p>
   <a href="https://drive.google.com/file/d/13uhUjVx7PIffPOfPYGdHgOFZvdo-RLJT/view?usp=drive_link">Team 2 Req1.pdf</a>
   <br/>
@@ -77,7 +77,7 @@
   Other Files:
   
   <a href="https://docs.google.com/document/d/1PW_X5c8_erpyhJr1A2UBc4y99jOvTr5_0AJ8lF1-oBU/edit?tab=t.0#heading=h.ver9vukz1rzm">Client Interview</a>
-</p>
+</div>
 
 ### Architecture
 #### Deliverable:
