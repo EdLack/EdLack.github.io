@@ -31,43 +31,43 @@
 
 
 ### Change Report
+#### Deliverable:
 <p style="border: 1px solid #ddd; padding: 15px; ">
-Deliverables:
 <a href="">Change2.pdf</a>
 <br/>
 </p>
 
 ### Implementation2
+#### Deliverable:
 <p style="border: 1px solid #ddd; padding: 15px; ">
-Deliverables:
 <a href="">Impl2.pdf</a>
 <br/>
 </p>
 
 ### Testing
+#### Deliverable:
 <p style="border: 1px solid #ddd; padding: 15px; ">
-Deliverables:
 <a href="">Test2.pdf</a>
 <br/>
 </p>
 
 ### User Evaluation
+#### Deliverable:
 <p style="border: 1px solid #ddd; padding: 15px; ">
-Deliverables:
 <a href="">Eval2.pdf</a>
 <br/>
 </p>
 
 ### Continuous Integration
+#### Deliverable:
 <p style="border: 1px solid #ddd; padding: 15px; ">
-Deliverables:
 <a href="">CI2.pdf</a>
 <br/>
 </p>
 
 ### Requirements
+#### Deliverable:
 <p style="border: 1px solid #ddd; padding: 15px; ">
-Deliverables:
 <p>Updated Assessment 1 Requirements PDF</p>
 <a href="https://drive.google.com/file/d/13uhUjVx7PIffPOfPYGdHgOFZvdo-RLJT/view?usp=drive_link">Team 2 Req1.pdf</a>
 <br/>
@@ -80,8 +80,8 @@ Other Files:
 </p>
 
 ### Architecture
+#### Deliverable:
 <p style="border: 1px solid #ddd; padding: 15px; ">
-Deliverable: 
 <p>Updated Assessment 1 Architecture PDF</p>
 <a href="https://drive.google.com/file/d/1NNg7ovKc4ouWQzEhXrDNHR1S94auQUsD/view?usp=drive_link">Team 2 Arch1.pdf</a>
 <br/>
@@ -103,8 +103,8 @@ Previous Iterations
 </p>
 
 ### Method Selection & Planning
+#### Deliverable:
 <p style="border: 1px solid #ddd; padding: 15px; ">
-Deliverable:
 <p>Updated Assessment 1 Method Selection & planning PDF</p>
 <a href="https://drive.google.com/file/d/170GA7l7ohJZw9Rnvt7Rh7utbooll0QvL/view?usp=drive_link">Team 2 Plan1.pdf</a>
 <br/>
@@ -126,8 +126,8 @@ Initial Plan:
 </p>
 
 ### Risk Assessment
+#### Deliverable:
 <p style="border: 1px solid #ddd; padding: 15px; ">
-Deliverable:
 <p>Updated Assessment 1 Risk Assessment PDF</p>
 <a href="https://drive.google.com/file/d/1bHjCCFkdH6vQi6cmq_lY5GjtXeMplphr/view?usp=drive_link">Team 2 Risk1.pdf</a>
 <br/>
@@ -136,8 +136,8 @@ Deliverable:
 </p>
 
 ### Implementation
+#### Deliverable:
 <p style="border: 1px solid #ddd; padding: 15px; ">
-Deliverable:
 <p>Assessment 1 Implementation PDF</p>
 <a href="https://drive.google.com/file/d/1bE5mqLg-GjwBI3gwtMpksPvTMxCAgt-W/view?usp=drive_link">Old Impl1.pdf</a>
 </p>
