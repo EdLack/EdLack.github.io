@@ -28,10 +28,10 @@
 ### Requirements
 #### Deliverable:
 <p>New Assessment 1 Requirements PDF</p>
-<a href="https://docs.google.com/document/d/1CCklC_My2x9zJ9jQACvzoWo5zuoZUEhd/edit?usp=sharing&ouid=104972335523553798061&rtpof=true&sd=true">Req1.pdf</a>
-
+<a href="https://drive.google.com/file/d/13uhUjVx7PIffPOfPYGdHgOFZvdo-RLJT/view?usp=drive_link">Team 2 Req1.pdf</a>
+<br/>
 <p>Old Assessment 1 Requirements PDF</p>
-<a href="https://drive.google.com/file/d/1J1F_THDsjMRu6NLjn-p8qB1K-CXb-HTg/view?usp=drive_link">Req1.pdf</a>
+<a href="https://drive.google.com/file/d/11Bx9VRTYPCfj8bXo6u9mI7ReFgbd0k88/view?usp=drive_link">Old Req1.pdf</a>
 
 #### Other Files:
 
@@ -39,7 +39,11 @@
 
 ### Architecture
 #### Deliverable: 
-<a href="https://drive.google.com/file/d/1-CjNoaZG2rZrUCLp1HcjlMXYrok3ZUIq/view?usp=drive_link">Arch1.pdf</a>
+<p>New Assessment 1 Architecture PDF</p>
+<a href="https://drive.google.com/file/d/1NNg7ovKc4ouWQzEhXrDNHR1S94auQUsD/view?usp=drive_link">Team 2 Arch1.pdf</a>
+<br/>
+<p>Old Assessment 1 Architecture PDF</p>
+<a href="https://drive.google.com/file/d/1jfcNZlO0-KP5iMbTfysFoU-16XQcxtFD/view?usp=drive_link">Old Arch1.pdf</a>
 
 #### Previous Iterations:
 <img width="926" height="711" alt="image" src="https://github.com/user-attachments/assets/6fada868-1d1f-42c3-9eab-dce23af878bb" />
@@ -49,9 +53,13 @@
 
 
 
-### Method Selection + Planning
+### Method Selection & Planning
 #### Deliverable:
-<a href="https://drive.google.com/file/d/1XtBebvLFB_HENxSJxRJyMiAXgJ5LjP5s/view?usp=drive_link">Plan1.pdf</a>
+<p>New Assessment 1 Method Selection & planning PDF</p>
+<a href="https://drive.google.com/file/d/170GA7l7ohJZw9Rnvt7Rh7utbooll0QvL/view?usp=drive_link">Team 2 Plan1.pdf</a>
+<br/>
+<p>Old Assessment 1 Method Selection & planning PDF</p>
+<a href="https://drive.google.com/file/d/1auxYCpcE32DbexzwlmGxIhwrD-RJoYl7/view?usp=drive_link">Old Plan1.pdf</a>
 
 #### Initial Plan:
 <a href="https://docs.google.com/document/d/1CiLiLa8Z827Mq-DgH0Q8jv8Wn1GDovbXgPi0u2z3JoU/edit?tab=t.0#heading=h.f63lrhvh1wkv">To-Do List</a>
@@ -68,22 +76,36 @@
 
 ### Risk Assessment
 #### Deliverable:
-<a href="https://drive.google.com/file/d/1WtmHPpqE2n4HbktvH8ebCbaR-J9kDtzB/view?usp=drive_link">Risk1.pdf</a>
+<p>New Assessment 1 Method Risk Assessment PDF</p>
+<a href="https://drive.google.com/file/d/1bHjCCFkdH6vQi6cmq_lY5GjtXeMplphr/view?usp=drive_link">Team 2 Risk1.pdf</a>
+<br/>
+<p>Old Assessment 1 Risk Assessment PDF</p>
+<a href="https://drive.google.com/file/d/1DKwnoRbtImQGt3f1-UKzbjqffvHFHFGC/view?usp=drive_link">Old Risk1.pdf</a>
 
 
 ### Implementation
 #### Deliverable:
-<a href="https://drive.google.com/file/d/1ys1byajmt1ymiKAqb6MnPiNXW8G--Fy-/view?usp=drive_link">Impl1.pdf</a>
+<p>Assessment 1 Implementation PDF</p>
+<a href="https://drive.google.com/file/d/1bE5mqLg-GjwBI3gwtMpksPvTMxCAgt-W/view?usp=drive_link">Old Impl1.pdf</a>
 
 
 ## Github Repository
-
+<p>New Assessment 2 GitHub Repository</p>
+<a href="https://github.com/KyberCrys/Team-2-Assessment-2-Engineering-Project">github.com/KyberCrys/Team-2-Assessment-2-Engineering-Project</a>
+<br/>
+<p>Old Assessment 1 GitHub Repository</p>
 <a href="https://github.com/hanap05/ENG1-Team-6-Game">github.com/hanap05/ENG1-Team-6-Game</a>
 
 ## Executable JAR
+<p>New Assessment 2 .jar executables</p>
+<a href="https://drive.google.com/file/d/1rphI45mRU37JYSxk9EjVUXw38Gb3uglG/view?usp=drive_link">Linux (ubuntu) .jar executable</a>
+<a href="https://drive.google.com/file/d/10hYqFsrlu4c7AIaWsIvWPN0BEY3qLLcQ/view?usp=drive_link">Apple (macos) .jar executable</a>
+<a href="https://drive.google.com/file/d/1QYK15_ZL8fxLP9aWoGQ2g_tEsjEgt_W7/view?usp=drive_link">Windows .jar executable</a>
 
+<p>Old Assessment 1 .jar executable</p>
 <a href="https://drive.google.com/file/d/1QMBXNiztB0TcUS6n2Vf8zyf3TzBQhuqu/view?usp=drive_link">eng1-maze-game.jar</a>
 
 ## Google Drive
+<a href="https://drive.google.com/drive/folders/1CtLu-3PziEayoKYIXwBJSp9JGyHGROdM?usp=drive_link">New Assessment 2 Eng1 Cohort 3 Team 2</a>
 
-<a href="https://drive.google.com/drive/folders/1i6r96fl1IZ4NdzUq33oifIspLvy7vvBL?usp=sharing">Eng1 Cohort 3 Team 6</a>
+<a href="https://drive.google.com/drive/folders/1i6r96fl1IZ4NdzUq33oifIspLvy7vvBL?usp=sharing">Old Assessment 1 Eng1 Cohort 3 Team 6</a>
