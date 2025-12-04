@@ -98,7 +98,7 @@ Assessment 1/2 Deliverables (Old & New) <br/>
     <summary>Click to see updated Assessment 1 architecture diagrams</summary>
   </details>
   <details>
-    <summary>Click to see Assessment 1 architecture diagrams</summary>
+    <summary>Click to see original Assessment 1 architecture diagrams</summary>
     <img width="926" height="711" alt="image" src="https://github.com/user-attachments/assets/6fada868-1d1f-42c3-9eab-dce23af878bb" />
     <img width="991" height="693" alt="image" src="https://github.com/user-attachments/assets/acdfb748-2049-4796-9ed5-f8b3db69f24a" />
     <img width="986" height="598" alt="image" src="https://github.com/user-attachments/assets/fe2fbfec-6573-41f3-9547-0d066612e1e8" />
