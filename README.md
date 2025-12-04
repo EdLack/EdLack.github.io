@@ -121,13 +121,14 @@
   Initial Plan:
   <br/>
   <a href="https://docs.google.com/document/d/1CiLiLa8Z827Mq-DgH0Q8jv8Wn1GDovbXgPi0u2z3JoU/edit?tab=t.0#heading=h.f63lrhvh1wkv">To-Do List</a>
+  <br/>
   <p>
   <img align="center" width="703" height="336" alt="image" src="https://github.com/user-attachments/assets/7ae28110-0919-4a64-807a-7593293826ba" />
   
   <br />
   <br />
   </p>
-  #### Working Plan:
+  Working Plan:
   <p>
   <img align="center" width="1627" height="523" alt="image" src="https://github.com/user-attachments/assets/4940d4c2-355b-4195-98c5-bada6c530a39" />
   </p>
@@ -138,6 +139,7 @@
 <div style="border: 1px solid #ddd; padding: 15px; ">
   <p>Updated Assessment 1 Risk Assessment PDF</p>
   <a href="https://drive.google.com/file/d/1bHjCCFkdH6vQi6cmq_lY5GjtXeMplphr/view?usp=drive_link">Team 2 Risk1.pdf</a>
+  <br/>
   <br/>
   <p>Old Assessment 1 Risk Assessment PDF</p>
   <a href="https://drive.google.com/file/d/1DKwnoRbtImQGt3f1-UKzbjqffvHFHFGC/view?usp=drive_link">Old Risk1.pdf</a>
@@ -155,6 +157,7 @@
   <p>New Assessment 2 GitHub Repository</p>
   <a href="https://github.com/KyberCrys/Team-2-Assessment-2-Engineering-Project">github.com/KyberCrys/Team-2-Assessment-2-Engineering-Project</a>
   <br/>
+  <br/>
   <p>Old Assessment 1 GitHub Repository</p>
   <a href="https://github.com/hanap05/ENG1-Team-6-Game">github.com/hanap05/ENG1-Team-6-Game</a>
 </div>
@@ -165,7 +168,7 @@
   <a href="https://drive.google.com/file/d/1rphI45mRU37JYSxk9EjVUXw38Gb3uglG/view?usp=drive_link">Linux (ubuntu) .jar executable</a><br />
   <a href="https://drive.google.com/file/d/10hYqFsrlu4c7AIaWsIvWPN0BEY3qLLcQ/view?usp=drive_link">Apple (macos) .jar executable</a><br />
   <a href="https://drive.google.com/file/d/1QYK15_ZL8fxLP9aWoGQ2g_tEsjEgt_W7/view?usp=drive_link">Windows (windowsos) .jar executable</a><br />
-  
+  <br/>
   <p>Old Assessment 1 .jar executable</p>
   <a href="https://drive.google.com/file/d/1QMBXNiztB0TcUS6n2Vf8zyf3TzBQhuqu/view?usp=drive_link">eng1-maze-game.jar</a>
 </div>
@@ -173,6 +176,6 @@
 ## Google Drive
 <p style="border: 1px solid #ddd; padding: 15px; ">
 <a href="https://drive.google.com/drive/folders/1CtLu-3PziEayoKYIXwBJSp9JGyHGROdM?usp=drive_link">New Assessment 2 Eng1 Cohort 3 Team 2</a>
-
+<br/>
 <a href="https://drive.google.com/drive/folders/1i6r96fl1IZ4NdzUq33oifIspLvy7vvBL?usp=sharing">Old Assessment 1 Eng1 Cohort 3 Team 6</a>
 </p>
