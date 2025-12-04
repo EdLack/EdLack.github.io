@@ -20,6 +20,7 @@
   - <a href="https://EdLack.github.io/#user-evaluation">User Evaluation</a> <br />
   - <a href="https://EdLack.github.io/#continuous-integration">Continuous Integration</a> <br />
 </details>
+<br/>
 - <a href="https://EdLack.github.io/#github-repository">Github Repositories</a> <br />
 - <a href="https://EdLack.github.io/#executable-jar">Executable JARs</a> <br />
 - <a href="https://EdLack.github.io/#google-drive">Google Drives</a> <br />
@@ -33,7 +34,7 @@
 <a href="">Change2.pdf</a>
 <br/>
 
-### Implementation2
+### Implementation
 #### Deliverables:
 <a href="">Impl2.pdf</a>
 <br/>
