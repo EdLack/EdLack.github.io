@@ -2,7 +2,25 @@
 ## Contents
 <p>
 
-- <hr>Assessment 1 Deliverables </hr>
+<hr> Updated Assessment 1 Deliverables (Team 2) </hr>
+  
+- <a href="https://EdLack.github.io/#requirements">Requirements</a> <br />
+  
+- <a href="https://EdLack.github.io/#architecture">Architecture</a> <br />
+
+- <a href="https://EdLack.github.io/#method-selection--planning">Method Selection + Planning</a> <br />
+
+- <a href="https://EdLack.github.io/#risk-assessment">Risk Assessment</a> <br />
+
+- <a href="https://EdLack.github.io/#implementation">Implementation</a> <br />
+
+- <a href="https://EdLack.github.io/#github-repository">Github Repository</a> <br />
+
+- <a href="https://EdLack.github.io/#executable-jar">Executable JAR</a> <br />
+
+- <a href="https://EdLack.github.io/#google-drive">Google Drive</a> <br />
+
+- <hr>Original Assessment 1 Deliverables (Team 6) </hr>
   
 - <a href="https://esiole-aurora.github.io/#requirements">Requirements</a> <br />
   
