@@ -2,7 +2,7 @@
 ## Contents
 <p>
 
-<hr> Assessment 1 Deliverables (Prev/New) 
+<hr> Assessment 1 Deliverables (Prev/New) <br/>
   
 - <a href="https://EdLack.github.io/#requirements">Requirements</a> <br />
   
