@@ -2,32 +2,60 @@
 ## Contents
 <p>
 
-<hr> Assessment 1 Deliverables (Old & New) <br/>
-  
-- <a href="https://EdLack.github.io/#requirements">Requirements</a> <br />
-  
-- <a href="https://EdLack.github.io/#architecture">Architecture</a> <br />
+<hr> Assessment 1/2 Deliverables (Old & New) <br/>
 
-- <a href="https://EdLack.github.io/#method-selection--planning">Method Selection + Planning</a> <br />
-
-- <a href="https://EdLack.github.io/#risk-assessment">Risk Assessment</a> <br />
-
-- <a href="https://EdLack.github.io/#implementation">Implementation</a> <br />
-
-- <a href="https://EdLack.github.io/#github-repository">Github Repository</a> <br />
-
-- <a href="https://EdLack.github.io/#executable-jar">Executable JAR</a> <br />
-
-- <a href="https://EdLack.github.io/#google-drive">Google Drive</a> <br />
-
+<details>
+  <summary>Click to see Assessment 1 updated and old deliverables</summary>
+  - <a href="https://EdLack.github.io/#requirements">Requirements</a> <br />
+  - <a href="https://EdLack.github.io/#architecture">Architecture</a> <br />
+  - <a href="https://EdLack.github.io/#method-selection--planning">Method Selection & Planning</a> <br />
+  - <a href="https://EdLack.github.io/#risk-assessment">Risk Assessment</a> <br />
+  - <a href="https://EdLack.github.io/#implementation">Implementation</a> <br />
+</details>
+<details>
+  <summary>Click to see Assessment 2 deliverables</summary>
+  - <a href="https://EdLack.github.io/#change-report">Change Report</a> <br />
+  - <a href="https://EdLack.github.io/#implementation2">Implementation</a> <br />
+  - <a href="https://EdLack.github.io/#testing">Testing</a> <br />
+  - <a href="https://EdLack.github.io/#user-evaluation">User Evaluation</a> <br />
+  - <a href="https://EdLack.github.io/#continuous-integration">Continuous Integration</a> <br />
+</details>
+- <a href="https://EdLack.github.io/#github-repository">Github Repositories</a> <br />
+- <a href="https://EdLack.github.io/#executable-jar">Executable JARs</a> <br />
+- <a href="https://EdLack.github.io/#google-drive">Google Drives</a> <br />
 </p>
 
 
 ## Documentation
 
+### Change Report
+#### Deliverables:
+<a href="">Change2.pdf</a>
+<br/>
+
+### Implementation2
+#### Deliverables:
+<a href="">Impl2.pdf</a>
+<br/>
+
+### Testing
+#### Deliverables:
+<a href="">Test2.pdf</a>
+<br/>
+
+### User Evaluation
+#### Deliverables:
+<a href="">Eval2.pdf</a>
+<br/>
+
+### Continuous Integration
+#### Deliverables:
+<a href="">CI2.pdf</a>
+<br/>
+
 ### Requirements
 #### Deliverable:
-<p>New Assessment 1 Requirements PDF</p>
+<p>Updated Assessment 1 Requirements PDF</p>
 <a href="https://drive.google.com/file/d/13uhUjVx7PIffPOfPYGdHgOFZvdo-RLJT/view?usp=drive_link">Team 2 Req1.pdf</a>
 <br/>
 <p>Old Assessment 1 Requirements PDF</p>
@@ -39,23 +67,28 @@
 
 ### Architecture
 #### Deliverable: 
-<p>New Assessment 1 Architecture PDF</p>
+<p>Updated Assessment 1 Architecture PDF</p>
 <a href="https://drive.google.com/file/d/1NNg7ovKc4ouWQzEhXrDNHR1S94auQUsD/view?usp=drive_link">Team 2 Arch1.pdf</a>
 <br/>
 <p>Old Assessment 1 Architecture PDF</p>
 <a href="https://drive.google.com/file/d/1jfcNZlO0-KP5iMbTfysFoU-16XQcxtFD/view?usp=drive_link">Old Arch1.pdf</a>
 
-#### Previous Iterations:
-<img width="926" height="711" alt="image" src="https://github.com/user-attachments/assets/6fada868-1d1f-42c3-9eab-dce23af878bb" />
-<img width="991" height="693" alt="image" src="https://github.com/user-attachments/assets/acdfb748-2049-4796-9ed5-f8b3db69f24a" />
-<img width="986" height="598" alt="image" src="https://github.com/user-attachments/assets/fe2fbfec-6573-41f3-9547-0d066612e1e8" />
-<img width="720" height="673" alt="image" src="https://github.com/user-attachments/assets/1a2ba6ae-e65f-44a5-b432-9508dcd061fb" />
-
-
+#### Previous Iterations
+<details>
+  <summary>Click to see new updated Assessment 2 architecture diagrams</summary>
+  <img/>
+</details>
+<details>
+  <summary>Click to see Assessment 1 architecture diagrams</summary>
+  <img width="926" height="711" alt="image" src="https://github.com/user-attachments/assets/6fada868-1d1f-42c3-9eab-dce23af878bb" />
+  <img width="991" height="693" alt="image" src="https://github.com/user-attachments/assets/acdfb748-2049-4796-9ed5-f8b3db69f24a" />
+  <img width="986" height="598" alt="image" src="https://github.com/user-attachments/assets/fe2fbfec-6573-41f3-9547-0d066612e1e8" />
+  <img width="720" height="673" alt="image" src="https://github.com/user-attachments/assets/1a2ba6ae-e65f-44a5-b432-9508dcd061fb" />
+</details>
 
 ### Method Selection & Planning
 #### Deliverable:
-<p>New Assessment 1 Method Selection & planning PDF</p>
+<p>Updated Assessment 1 Method Selection & planning PDF</p>
 <a href="https://drive.google.com/file/d/170GA7l7ohJZw9Rnvt7Rh7utbooll0QvL/view?usp=drive_link">Team 2 Plan1.pdf</a>
 <br/>
 <p>Old Assessment 1 Method Selection & planning PDF</p>
@@ -76,7 +109,7 @@
 
 ### Risk Assessment
 #### Deliverable:
-<p>New Assessment 1 Method Risk Assessment PDF</p>
+<p>Updated Assessment 1 Risk Assessment PDF</p>
 <a href="https://drive.google.com/file/d/1bHjCCFkdH6vQi6cmq_lY5GjtXeMplphr/view?usp=drive_link">Team 2 Risk1.pdf</a>
 <br/>
 <p>Old Assessment 1 Risk Assessment PDF</p>
