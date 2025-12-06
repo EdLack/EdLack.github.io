@@ -135,6 +135,7 @@ Assessment 1/2 Deliverables (Old & New) <br/>
   </details>
   <details>
     <summary>Click to see Assessment 2 Gantt Chart diagrams</summary>
+    <img width="962" height="594" alt="Screenshot 2025-12-06 133434" src="https://github.com/user-attachments/assets/5ccf5a95-b50b-458c-a74c-f5b37fa69e5c" />
   </details>
   </p>
 </div>
