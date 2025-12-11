@@ -96,6 +96,12 @@ Assessment 1/2 Deliverables (Old & New) <br/>
   Previous Iterations
   <details>
     <summary>Click to see updated Assessment 1 architecture diagrams</summary>
+    <img width="736" height="1321" alt="Assessment2_Behaviour_of_Game" src="https://github.com/user-attachments/assets/43567578-3f49-4688-a113-cf01ea066f7c" />
+    <img width="1057" height="1965" alt="Assessment2_Behaviour_of_Game_V2" src="https://github.com/user-attachments/assets/fe8f3009-f656-4eeb-9ed0-008bb3c6ac57" />
+    <img width="635" height="610" alt="InvertedControls" src="https://github.com/user-attachments/assets/8bfdbaf5-be9f-4f65-a3e6-b412e6afd7d4" />
+    <img width="591" height="477" alt="TimeDecrease" src="https://github.com/user-attachments/assets/031280d6-fa9e-495b-90ff-c97d262fc1cd" />
+
+
   </details>
   <details>
     <summary>Click to see original Assessment 1 architecture diagrams</summary>
