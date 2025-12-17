@@ -33,14 +33,14 @@ Assessment 1/2 Deliverables (Old & New) <br/>
 ### Change Report
 #### Deliverable:
 <div style="border: 1px solid #ddd; padding: 15px; ">
-  <a href="">Change2.pdf</a>
+  <a href="https://drive.google.com/file/d/1vykJayrxhYvukxs3_O3Kos0aUdv98GTu/view?usp=drive_link">Change2.pdf</a>
   <br/>
 </div>
 
 ### Implementation2
 #### Deliverable:
 <div style="border: 1px solid #ddd; padding: 15px; ">
-  <a href="">Impl2.pdf</a>
+  <a href="https://drive.google.com/file/d/1rnt2niWqDyOWN49nkGCZyOa-i3gyXwzu/view?usp=drive_link">Impl2.pdf</a>
   <br/>
 </div>
 
@@ -54,14 +54,14 @@ Assessment 1/2 Deliverables (Old & New) <br/>
 ### User Evaluation
 #### Deliverable:
 <div style="border: 1px solid #ddd; padding: 15px; ">
-  <a href="">Eval2.pdf</a>
+  <a href="https://drive.google.com/file/d/164R2vcPc9YHRCVEuHDl3SnW9Am0IygLX/view?usp=drive_link">Eval2.pdf</a>
   <br/>
 </div>
 
 ### Continuous Integration
 #### Deliverable:
 <div style="border: 1px solid #ddd; padding: 15px; ">
-  <a href="">CI2.pdf</a>
+  <a href="https://drive.google.com/file/d/1nqvOZjXFrRvhVQsyATP18eIQLIqPz2fo/view?usp=drive_link">CI2.pdf</a>
   <br/>
 </div>
 
