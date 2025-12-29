@@ -49,6 +49,10 @@ Assessment 1/2 Deliverables (Old & New) <br/>
 <div style="border: 1px solid #ddd; padding: 15px; ">
   <a href="">Test2.pdf</a>
   <br/>
+  <a href="">JaCoCo Test Report</a>
+  <br/>
+  <a href="">Test Summary</a>
+  <br/>
 </div>
 
 ### User Evaluation
