@@ -49,7 +49,7 @@ Assessment 1/2 Deliverables (Old & New) <br/>
 <div style="border: 1px solid #ddd; padding: 15px; ">
   <a href="">Test2.pdf</a>
   <br/>
-  <a href="C:\Users\edlac\Desktop\Team-2-Assessment-2-Engineering-Project\headless\build\reports\jacoco\test\html\io.github.matthewbaghomian\Main.java.html">JaCoCo Test Report</a>
+  <a href="">JaCoCo Test Report</a>
   <br/>
   <a href="file:///c%3A/Users/edlac/Desktop/Team-2-Assessment-2-Engineering-Project/headless/build/reports/tests/test/index.html">Test Results</a>
   <br/>
