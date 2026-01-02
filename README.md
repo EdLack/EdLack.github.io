@@ -51,11 +51,11 @@ Assessment 1/2 Deliverables (Old & New) <br/>
 <div style="border: 1px solid #ddd; padding: 15px; ">
   <a href="">Test2.pdf</a>
   <br/>
-  <a href="https://drive.google.com/file/d/1bjCndKaUgIXP8NkaBOYwmrRbDmsJ-DdA/view?usp=drive_link">Checkstyle Report HTML Link</a>
+  <a href="https://drive.google.com/file/d/1bjCndKaUgIXP8NkaBOYwmrRbDmsJ-DdA/view?usp=drive_link">Checkstyle Report HTML Link (You will need to download this on your device)</a>
   <br/>
-  <a href="https://github.com/KyberCrys/Team-2-Assessment-2-Engineering-Project/actions/runs/20656934888/artifacts/5007620351">JaCoCo Coverage Report Zip Download</a>
+  <a href="https://drive.google.com/file/d/1V7XCzl-T26t8IeI2fzDqqC-m8ON-PnER/view?usp=drive_link">JaCoCo Coverage Report HTML Link (You will need to download this on your device)</a>
   <br/>
-  <a href="https://github.com/KyberCrys/Team-2-Assessment-2-Engineering-Project/actions/runs/20656934888/artifacts/5007621408">JaCoCo Test Report Zip Download</a>
+  <a href="https://drive.google.com/file/d/1MTzL1lUPCoKEf3fr1V03kGdUn9FLcNN6/view?usp=drive_link">JaCoCo Sessions HTML Link (You will need to download this on your device)</a>
   <br/>
 </div>
 
