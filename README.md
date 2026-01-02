@@ -51,11 +51,11 @@ Assessment 1/2 Deliverables (Old & New) <br/>
 <div style="border: 1px solid #ddd; padding: 15px; ">
   <a href="">Test2.pdf</a>
   <br/>
-  <a href="sha256:2d608dc5aa2d2bf90955ac76c64c6d63978ed3e8461a58eb864fd3372788467d">Checkstyle Report</a>
+  <a href="https://github.com/KyberCrys/Team-2-Assessment-2-Engineering-Project/actions/runs/20656934888/artifacts/5007622559">Checkstyle Report</a>
   <br/>
-  <a href="sha256:5086de00110204ee413511f47342f8dd6fe653feeb887de8eb3fc2827d1b6df3">JaCoCo Coverage Report</a>
+  <a href="https://github.com/KyberCrys/Team-2-Assessment-2-Engineering-Project/actions/runs/20656934888/artifacts/5007620351">JaCoCo Coverage Report</a>
   <br/>
-  <a href="sha256:f04f3731574535d24453fa20c1e5b5f9a60b3afaefc97b034327fa1299140719">JaCoCo Test Report</a>
+  <a href="https://github.com/KyberCrys/Team-2-Assessment-2-Engineering-Project/actions/runs/20656934888/artifacts/5007621408">JaCoCo Test Report</a>
   <br/>
 </div>
 
