@@ -51,11 +51,13 @@ Assessment 1/2 Deliverables (Old & New) <br/>
 <div style="border: 1px solid #ddd; padding: 15px; ">
   <a href="">Test2.pdf</a>
   <br/>
-  <a href="https://drive.google.com/drive/folders/1m9kK-Yr092WOa7RAWlj8ju0mcEOUoHcd?usp=drive_link">Checkstyle Report Link (You will need to download this on your device)</a>
+  <h2>For each of the following files you will be taken to a google drive, where you will need to download the main folder and then unzip it. From there you can open the corresponding index.html / main.html from your device.</h2>
   <br/>
-  <a href="https://drive.google.com/drive/folders/1f65CbQjS7mlk6cSh3zZCjipFZjrNeAgX?usp=drive_link">JaCoCo Coverage Report Link (You will need to download this on your device)</a>
+  <a href="https://drive.google.com/drive/folders/1m9kK-Yr092WOa7RAWlj8ju0mcEOUoHcd?usp=drive_link">Checkstyle Report Link </a>
   <br/>
-  <a href="https://drive.google.com/drive/folders/1K0dwUzp_6oYqCBK_mKgJ_lNYohiH3P1Y?usp=drive_link">JaCoCo Test Report Link (You will need to download this on your device)</a>
+  <a href="https://drive.google.com/drive/folders/1f65CbQjS7mlk6cSh3zZCjipFZjrNeAgX?usp=drive_link">JaCoCo Coverage Report Link </a>
+  <br/>
+  <a href="https://drive.google.com/drive/folders/1K0dwUzp_6oYqCBK_mKgJ_lNYohiH3P1Y?usp=drive_link">JaCoCo Test Report Link </a>
   <br/>
 </div>
 
