@@ -50,6 +50,194 @@ Assessment 1/2 Deliverables (Old & New) <br/>
 #### Deliverable:
 <div style="border: 1px solid #ddd; padding: 15px; ">
   <a href="">Test2.pdf</a>
+  <h3>Manual Test Table</h3>
+  <table border="1" cellspacing="0" cellpadding="6">
+  <thead>
+    <tr>
+      <th>ID</th>
+      <th>Description</th>
+      <th>Requirement</th>
+      <th>Method</th>
+      <th>Expected Outcome</th>
+      <th>Actual Outcome</th>
+      <th>Status</th>
+    </tr>
+  </thead>
+  <tbody>
+    <tr>
+      <td>TEST_STARTSCREEN_RENDER</td>
+      <td>Tests that the starting screen is loaded correctly upon starting the game with the background, intro text, and leaderboard</td>
+      <td>UR_CLEAR_DESIGN, UR_LEADERBOARD</td>
+      <td>Load the game</td>
+      <td>Correct background and text is loaded, text is legible and easy to understand</td>
+      <td>Background and text is loaded correctly, and the text is legible</td>
+      <td>Pass</td>
+    </tr>
+
+    <tr>
+      <td>TEST_WINSCREEN_RENDER</td>
+      <td>Tests the win screen loads correctly upon winning the game, with the background, congratulatory text, and achievements</td>
+      <td>UR_CLEAR_DESIGN, UR_ACHIEVEMENTS</td>
+      <td>Play through the game until the win condition is met</td>
+      <td>Correct background and text is loaded, text is legible and easy to understand</td>
+      <td>Background and text is loaded correctly, and the text is mostly legible</td>
+      <td>Pass</td>
+    </tr>
+
+    <tr>
+      <td>TEST_PLAYER_RENDER</td>
+      <td>Tests that the correct animation is played for each of the players inputs</td>
+      <td>UR_MOVEMENT, UR_CLEAR_DESIGN</td>
+      <td>
+        Press each of the keys w,a,s,d checking that the animation changes correctly on each keypress.
+        Stop after pressing each key, checking that the animation is correct once the key is no longer pressed
+      </td>
+      <td>
+        Press W: up walking animation is used, when stopped, the facing up animation is used<br><br>
+        Press A: left walking animation is used, when stopped, the facing left animation is used<br><br>
+        Press S: down walking animation is used, when stopped, the facing down animation is used<br><br>
+        Press D: right walking animation is used, when stopped, the facing right animation is used
+      </td>
+      <td>Pressing each key plays the correct animation whilst the key is pressed and once the player stops moving</td>
+      <td>Pass</td>
+    </tr>
+
+    <tr>
+      <td>TEST_DOOR_AND_KEY_RENDER</td>
+      <td>Tests that exactly three doors and three keys are drawn on the map in the correct orientation</td>
+      <td>UR_ITEMS, UR_MAP, UR_CLEAR_DESIGN, FR_LOCKED_DOOR</td>
+      <td>Load and start a game</td>
+      <td>Three doors and three keys will be clearly visible on the map</td>
+      <td>Three doors and three keys are visible on the map</td>
+      <td>Pass</td>
+    </tr>
+
+    <tr>
+      <td>TEST_WARP_RENDER</td>
+      <td>Tests that a warp panel is correctly rendered </td>
+      <td>UR_HIDDEN_EVENTS</td>
+      <td>Load and start a game, then move the player until they collide with the warp panel</td>
+      <td>The warp panel is initially not visible, once the player collides with it, it will then become visible</td>
+      <td>The warp panel is not initially visible, then becomes visible once it is collided with</td>
+      <td>Pass</td>
+    </tr>
+
+    <tr>
+      <td>TEST_POWERUP_RENDER</td>
+      <td>Tests that each powerup is correctly rendered</td>
+      <td>UR_MAP, UR_ITEMS, UR_POSITIVE_EVENTS, UR_NEGATIVE_EVENTS, UR_HIDDEN_EVENTS</td>
+      <td>
+        Load and start a game, check that all the visible events are rendered with the correct image.
+        Move the player to collide with the remaining hidden events
+      </td>
+      <td>
+        There are two speed up events, then one of each a:<br>
+        chest; charge; hole; drink, sleep; slow down; time boost; and score divider
+      </td>
+      <td>
+        All visible events are shown on the map and are mostly clear to see, both hidden events are not visible when starting the game,
+        however the charge event doesn’t then become visible once it is activated
+      </td>
+      <td>Fail</td>
+    </tr>
+
+    <tr>
+      <td>TEST_ACTIVE_POWERUP_RENDER</td>
+      <td>Tests the active powerups are shown on the UI bar</td>
+      <td>UR_CLEAR_DESIGN</td>
+      <td>Load and start a game, then collect a speed up powerup, check that it is active for 10 seconds</td>
+      <td>The icon for the active powerup should appear and stay visible for the amount of time that it is active</td>
+      <td>Upon collecting the speed up, it becomes visible in the active powerup section, disappearing after 10 seconds</td>
+      <td>Pass</td>
+    </tr>
+
+    <tr>
+      <td>TEST_EVENTCOUNTS_RENDER</td>
+      <td>Tests that the counters for each event are shown on the UI bar with the correct counts</td>
+      <td>UR_EVENT_COUNTER</td>
+      <td>Load and start a game, then collect a powerup of each type: positive, negative and hidden</td>
+      <td>The counters should be rendered and legible, then upon each powerup being collected, the respective counter should increase</td>
+      <td>
+        The counters are initially rendered to 0, and are clearly visible, upon collecting a good, bad and hidden event,
+        the respective counters all incremented by 1
+      </td>
+      <td>Pass</td>
+    </tr>
+
+    <tr>
+      <td>TEST_PAUSE</td>
+      <td>Tests that the Pause menu renders correctly</td>
+      <td>UR_PAUSE, UR_CLEAR_DESIGN, UR_GAME_DESIGN</td>
+      <td>Load and start a game, then press esc to activate the pause menu, press esc again to return to the game</td>
+      <td>The pause menu will be rendered with a transparent background and legible text, with the game timer pausing</td>
+      <td>
+        The pause menu is rendered correctly, and the text is quite legible, and the game timer visibly pauses
+      </td>
+      <td>Pass</td>
+    </tr>
+
+    <tr>
+      <td>TEST_GAME_OVER</td>
+      <td>Tests that the Game Over screen renders correctly</td>
+      <td>UR_CLEAR_DESIGN, UR_GAME_DESIGN</td>
+      <td>Load and start a game, wait until the timer runs out</td>
+      <td>The game over screen will be rendered with a transparent background and legible text</td>
+      <td>The game over screen is rendered correctly, the text is relatively legible</td>
+      <td>Pass</td>
+    </tr>
+
+    <tr>
+      <td>TEST_TIMER</td>
+      <td>Tests that the timer is correctly rendered on the UI bar, accurately depicting the time</td>
+      <td>UR_COUNTDOWN, UR_CLEAR_DESIGN</td>
+      <td>Load and start a game, watch the timer and check it decreases every second</td>
+      <td>The timer is rendered in the top corner in the format MM:SS, and decreases by 1 every second</td>
+      <td>The timer is correctly rendered and decreases at the correct rate</td>
+      <td>Pass</td>
+    </tr>
+
+    <tr>
+      <td>TEST_GAME_RENDER</td>
+      <td>Tests that the game map is rendered correctly</td>
+      <td>UR_MAP, UR_CLEAR_DESIGN</td>
+      <td>Load and start a game</td>
+      <td>The map is correctly rendered and easy to understand </td>
+      <td>The map is correctly rendered, the pixel art graphics making it clear what areas can be accessed</td>
+      <td>Pass</td>
+    </tr>
+
+    <tr>
+      <td>TEST_MOVEMENT</td>
+      <td>Tests that the player can move and collide with objects in order to complete the game</td>
+      <td>UR_MOVEMENT, UR_ITEMS, UR_GAME_DESIGN</td>
+      <td>Load and start a game, play through the game until the win condition is met</td>
+      <td>All entities are rendered correctly, the player can move, collide with items to progress, and end the game</td>
+      <td>
+        All entities were rendered correctly, and the player was able to collide with items to complete the game
+      </td>
+      <td>Pass</td>
+    </tr>
+
+    <tr>
+      <td>TEST_RESIZE</td>
+      <td>Tests that the game window can be resized accurately</td>
+      <td>UR_GAME_DESIGN</td>
+      <td>
+        Load and a game, press F11 to resize the game to fullscreen,
+        press F11 again to return to original window size
+      </td>
+      <td>
+        The graphics adapts to fullscreen without loss of quality, and then revert back to the initial state
+      </td>
+      <td>
+        From the start screen, pressing F11 will not resize the game, doing so once the game has started however,
+        will resize the screen correctly. Pressing F11 again does not revert the screen size
+      </td>
+      <td>Fail</td>
+    </tr>
+  </tbody>
+</table>
+
   <br/>
   <h2>For each of the following files you will be taken to a google drive, where you will need to download the main folder and then unzip it. From there you can open the corresponding index.html / main.html from your device.</h2>
   <br/>
