@@ -51,11 +51,11 @@ Assessment 1/2 Deliverables (Old & New) <br/>
 <div style="border: 1px solid #ddd; padding: 15px; ">
   <a href="">Test2.pdf</a>
   <br/>
-  <a href="https://drive.google.com/file/d/1bjCndKaUgIXP8NkaBOYwmrRbDmsJ-DdA/view?usp=drive_link">Checkstyle Report HTML Link (You will need to download this on your device)</a>
+  <a href="https://drive.google.com/drive/folders/1m9kK-Yr092WOa7RAWlj8ju0mcEOUoHcd?usp=drive_link">Checkstyle Report Link (You will need to download this on your device)</a>
   <br/>
-  <a href="https://drive.google.com/file/d/1V7XCzl-T26t8IeI2fzDqqC-m8ON-PnER/view?usp=drive_link">JaCoCo Coverage Report HTML Link (You will need to download this on your device)</a>
+  <a href="https://drive.google.com/drive/folders/1f65CbQjS7mlk6cSh3zZCjipFZjrNeAgX?usp=drive_link">JaCoCo Coverage Report Link (You will need to download this on your device)</a>
   <br/>
-  <a href="https://drive.google.com/file/d/1MTzL1lUPCoKEf3fr1V03kGdUn9FLcNN6/view?usp=drive_link">JaCoCo Sessions HTML Link (You will need to download this on your device)</a>
+  <a href="https://drive.google.com/drive/folders/1K0dwUzp_6oYqCBK_mKgJ_lNYohiH3P1Y?usp=drive_link">JaCoCo Test Report Link (You will need to download this on your device)</a>
   <br/>
 </div>
 
