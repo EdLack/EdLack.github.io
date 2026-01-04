@@ -231,7 +231,7 @@ Assessment 1/2 Deliverables (Old & New) <br/>
       </td>
       <td>
         From the start screen, pressing F11 will not resize the game, doing so once the game has started however,
-        will resize the screen correctly. Pressing F11 again does not revert the screen size
+        will resize the screen correctly.
       </td>
       <td>Fail</td>
     </tr>
