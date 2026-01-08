@@ -105,6 +105,18 @@ Assessment 1/2 Deliverables (Old & New) <br/>
     </tr>
   </tbody>
 </table>
+<p>References:
+[1] https://crusenho.itch.io/complete-ui-essential-pack
+[2] https://datagoblin.itch.io/monogram
+[3] https://srtoasty.itch.io/ui-assets-pack-2
+[4] https://erisesra.itch.io/character-templates-pack
+[5] https://limezu.itch.io/moderninteriors
+[6] https://gradle.org/
+[7] https://libgdx.com/
+[8] https://www.lwjgl.org/
+[9] https://code.visualstudio.com/
+[10] https://www.jacoco.org/jacoco/
+</p>
 </div>
 
 ### Testing
