@@ -44,6 +44,7 @@ Assessment 1/2 Deliverables (Old & New) <br/>
   <br/>
   <a href="https://github.com/KyberCrys/Team-2-Assessment-2-Engineering-Project/releases/tag/untagged-df7a6eb590a3cb672585">Source Code</a>
   <br/>
+   <table border="1" cellspacing="0" cellpadding="3">
    <thead>
     <tr>
       <th>Name</th>
@@ -102,6 +103,8 @@ Assessment 1/2 Deliverables (Old & New) <br/>
       <td>Eclipse Public License Version 2.0</td>
       <td>Include copyright notice. Include license. License any derivative works of the library under the same or later version of the EPL. Disclose source code. </td>
     </tr>
+  </tbody>
+</table>
 </div>
 
 ### Testing
