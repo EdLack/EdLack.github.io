@@ -44,6 +44,64 @@ Assessment 1/2 Deliverables (Old & New) <br/>
   <br/>
   <a href="https://github.com/KyberCrys/Team-2-Assessment-2-Engineering-Project/releases/tag/untagged-df7a6eb590a3cb672585">Source Code</a>
   <br/>
+   <thead>
+    <tr>
+      <th>Name</th>
+      <th>License</th>
+      <th>Requirement</th>
+    </tr>
+  </thead>
+  <tbody>
+    <tr>
+      <td>Complete UI Essentials Pack by Crusenho [1]</td>
+      <td>Creative Commons Attribution 4.0</td>
+      <td>Give credit. Include license. State changes. Can’t add additional restrictions</td>
+    </tr>
+    <tr>
+      <td>Monogram font by Vinícius Menézio [2]</td>
+      <td>Creative Commons Zero v1.0 Universal</td>
+      <td>None</td>
+    </tr>
+    <tr>
+      <td>UI Assets Pack 2 by Sr.Toasty [3]</td>
+      <td>Creative Commons Zero v1.0 Universal</td>
+      <td>None</td>
+    </tr>
+    <tr>
+      <td>Character Template by Eris Esra [4]</td>
+      <td>Non-Standard</td>
+      <td>Cannot Resell. Credit Appreciated</td>
+    </tr>
+    <tr>
+      <td>Modern Interiors by LimeZu [5]</td>
+      <td>Non-Standard</td>
+      <td>Free version - Used in our project: Non-Commercial. Cannot edit sprites for use in commercial products. Cannot edit and resell sprites.</td>
+    </tr>
+    <tr>
+      <td>Gradle [6]</td>
+      <td>Apache License 2.0</td>
+      <td>Preserve copyright notices. Include license. State any changes. Include original NOTICE file.</td>
+    </tr>
+    <tr>
+      <td>libGDX [7]</td>
+      <td>Apache License 2.0</td>
+      <td>Preserve copyright notices. Include license. State any changes. Include original NOTICE file.</td>
+    </tr>
+    <tr>
+      <td>LWJGL3 [8]</td>
+      <td>BSD license</td>
+      <td>Retain copyright notice, list of conditions and disclaimer. Cannot use project, or author’s name for endorsement without permission.</td>
+    </tr>
+    <tr>
+      <td>VS code [9]</td>
+      <td>MIT Licence</td>
+      <td>Include copyright notice. Include license.</td>
+    </tr>
+    <tr>
+      <td>Jacoco [10]</td>
+      <td>Eclipse Public License Version 2.0</td>
+      <td>Include copyright notice. Include license. License any derivative works of the library under the same or later version of the EPL. Disclose source code. </td>
+    </tr>
 </div>
 
 ### Testing
